@@ -3,4 +3,4 @@ name: pocketbase-helm
 description: A Helm chart for deploying PocketBase.io as a K8S deployment
 type: application
 version: 0.11.0
-appVersion: "v0.14.3"
+appVersion: "v0.22.11"
